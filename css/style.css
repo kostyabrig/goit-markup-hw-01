@@ -6,3 +6,6 @@ footer {
     height: 100px;
     background-color: bisque;  
 }
+main {
+    display: flex;
+}
