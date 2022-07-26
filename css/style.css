@@ -9,3 +9,4 @@ footer {
 main {
     display: flex;
 }
+nav ul {display: inline;}
